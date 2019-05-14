@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://toxanutiy.github.io/VKcoin",
+  "homepage": "https://toxanutiy.github.io/vkcoin",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build",
