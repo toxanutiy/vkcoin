@@ -1,0 +1,24 @@
+{
+  "name": "vkcoinserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ToXaHo",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mongoose": "^5.5.7",
+    "querystring": "^0.2.0",
+    "socket.io": "^2.2.0",
+    "vk-io": "^4.0.0-rc.17"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
