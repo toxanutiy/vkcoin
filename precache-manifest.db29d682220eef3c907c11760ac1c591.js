@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "652057d8184e425712c8",
+    "revision": "cf7bbba9d52c126db029",
     "url": "/vkcoin/static/css/main.b641a2be.chunk.css"
   },
   {
-    "revision": "652057d8184e425712c8",
-    "url": "/vkcoin/static/js/main.652057d8.chunk.js"
+    "revision": "cf7bbba9d52c126db029",
+    "url": "/vkcoin/static/js/main.cf7bbba9.chunk.js"
   },
   {
     "revision": "9a36d6dd15a08f9ddc62",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/vkcoin/static/js/2.1549efb2.chunk.js"
   },
   {
-    "revision": "e4bebdb6cc6355937d315a3612ce9c12",
+    "revision": "26ff6609d71bdeae92c5d697db8df591",
     "url": "/vkcoin/index.html"
   }
 ];
